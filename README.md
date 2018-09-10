@@ -26,5 +26,4 @@ http://htmlpreview.github.io/?https://github.com/Meronkha/ballsJS/blob/master/bo
           // Insert appropriate response mechanism here
        
   ```
-  #### - A function which implement collision logic with the Wall in conjunction with realistic newtonian mechanics
-   like the coefficent of restitution (e)
+  #### - A function which implement collision logic with the Wall in conjunction with realistic newtonian mechanics like the coefficent of restitution (e)
