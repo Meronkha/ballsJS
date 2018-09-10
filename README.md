@@ -6,9 +6,9 @@ http://htmlpreview.github.io/?https://github.com/Meronkha/ballsJS/blob/master/bo
 
 ### What this project includes:
 
-  ####The use of my own Vector library [vectorJS]( https://github.com/Meronkha/vectorJS)
+  #### The use of my own Vector library [vectorJS]( https://github.com/Meronkha/vectorJS)
   
-  ####A function which can detect collisions between two objects:
+  #### A function which can detect collisions between two objects:
   
   ```JS
   
@@ -26,5 +26,5 @@ http://htmlpreview.github.io/?https://github.com/Meronkha/ballsJS/blob/master/bo
           // Insert appropriate response mechanism here
        
   ```
-  ####A function which implement collision logic with the Wall in conjunction with realistic newtonian mechanics
+  #### A function which implement collision logic with the Wall in conjunction with realistic newtonian mechanics
    like the coefficent of restitution (e)
