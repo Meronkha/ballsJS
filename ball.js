@@ -1,5 +1,7 @@
 new p5();
-let gravity = 0.98;
+
+// constants
+let gravity = 0;
 let eBall = 1;
 let eWall = 0.95;
 
