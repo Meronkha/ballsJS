@@ -3,7 +3,7 @@ new p5();
 // constants
 let gravity = 0;
 let eBall = 1;
-let eWall = 0.95;
+let eWall = 1;
 
 class Ball {
   constructor(x,y){
