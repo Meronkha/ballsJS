@@ -33,7 +33,7 @@ Vector.prototype.angle = function(obj){
 };
 
 
-/*TBC
+/*To be added soon
 Vector.prototype.multiply = function(obj){}
 Vector.prototype.divide = function(obj){}
 Vector.prototype.dot = function(obj){}
