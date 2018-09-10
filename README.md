@@ -6,7 +6,7 @@ http://htmlpreview.github.io/?https://github.com/Meronkha/ballsJS/blob/master/bo
 
 What this project includes:
 
-   -My own basic library containing basic vector functions (add,subtract, magnitude etc), you can check that out here:
+   -My own basic library containing basic vector functions (add,subtract, magnitude etc)
     https://github.com/Meronkha/vectorJS
   
   -A function which can detect collisions between two objects:
@@ -19,9 +19,11 @@ What this project includes:
   /*
   This function will return the magnitude of the Vector between the two ball objects (their respective centres).
   The input of the function is two vector objects created using my own library mentioned before. 
-  You can implement this function with the following code to generate collision detection:
+  You can implement this function with the following code to generate collision detection
   */
   
   if (distanceBetween(ballVec1,ballVec2) < (myBalls[ballObj11].r/2 + myBalls[ballobj2].r/2)){
           // Insert appropriate response mechanism here
-         
+  ```
+  -A function which implement collision logic with the Wall in conjunction with realistic newtonian mechanics
+   like the coefficent of restitution
