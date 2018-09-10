@@ -6,8 +6,7 @@ http://htmlpreview.github.io/?https://github.com/Meronkha/ballsJS/blob/master/bo
 
 ### What this project includes:
 
-   -My own basic library containing basic vector functions (add,subtract, magnitude etc)
-    https://github.com/Meronkha/vectorJS
+  -The use of my own Vector [library] ( https://github.com/Meronkha/vectorJS)
   
   -A function which can detect collisions between two objects:
   
