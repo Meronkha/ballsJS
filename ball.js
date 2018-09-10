@@ -1,9 +1,9 @@
 new p5();
 
 // constants
-let gravity = 0;
-let eBall = 1;
-let eWall = 1;
+let gravity = 0.98;
+let eBall;
+let eWall = 0.98;
 
 class Ball {
   constructor(x,y){
