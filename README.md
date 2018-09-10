@@ -1,10 +1,10 @@
 # ballsJS
 ## Simple 2D balls, created with p5.js. Basic collision logic and mechanics
 
-Take a look:
+### Take a look:
 http://htmlpreview.github.io/?https://github.com/Meronkha/ballsJS/blob/master/bouncingball.html
 
-What this project includes:
+### What this project includes:
 
    -My own basic library containing basic vector functions (add,subtract, magnitude etc)
     https://github.com/Meronkha/vectorJS
