@@ -11,7 +11,8 @@ What this project includes:
   
   -A function which can detect collisions between two objects:
   
-  ```function distanceBetween(obj1,obj2){
+  ```JS
+  function distanceBetween(obj1,obj2){
   let temp = obj1.subtract(obj2)
   return temp.magnitude();
   }```
@@ -21,4 +22,5 @@ What this project includes:
   You can implement this function with the following code to generate collision detection:
   
   ```if (distanceBetween(ballVec1,ballVec2) < (myBalls[ballObj11].r/2 + myBalls[ballobj2].r/2)){
-          // Insert appropriate response mechanism here```
+          // Insert appropriate response mechanism here
+          ```
