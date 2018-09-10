@@ -6,7 +6,7 @@ http://htmlpreview.github.io/?https://github.com/Meronkha/ballsJS/blob/master/bo
 
 ### What this project includes:
 
-  -The use of my own Vector [library] ( https://github.com/Meronkha/vectorJS)
+  -The use of my own Vector [library]( https://github.com/Meronkha/vectorJS)
   
   -A function which can detect collisions between two objects:
   
