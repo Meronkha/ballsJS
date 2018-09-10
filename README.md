@@ -5,6 +5,7 @@ Take a look:
 http://htmlpreview.github.io/?https://github.com/Meronkha/ballsJS/blob/master/bouncingball.html
 
 What this project includes:
+
    -My own basic library containing basic vector functions (add,subtract, magnitude etc), you can check that out here:
     https://github.com/Meronkha/vectorJS
   
@@ -13,7 +14,7 @@ What this project includes:
   ```function distanceBetween(obj1,obj2){
   let temp = obj1.subtract(obj2)
   return temp.magnitude();
-  }``
+  }```
   
   This function will return the magnitude of the Vector between the two ball objects (their respective centres).
   The input of the function is two vector objects created using my own library mentioned before. 
